@@ -2,8 +2,6 @@
 
 # DS5B-605
 
-## By Puneet Gupta
-
 ### Credits 3 (L(2)-T(0)-P(2))
 
 Lecture Time - Sunday 10AM - 12PM
