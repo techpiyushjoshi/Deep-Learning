@@ -20,7 +20,7 @@ Lecture Time - Sunday 10AM - 12PM
     - Model should automatically understand which feature is important
     - Data we are giving more and more everyday (0.5 Billion → 1 Billion → 10 Billion → 100 Billion) but its performance was not increasing in Machine Learning, prediction and accuracy was not increasing, performance does not improve with data
     - Deep Learning is a combination of Statistics, Algebra, Calculus, Programming.
-    - WIll give numerical on ANN to understand how its working?
+    - Will give numerical on ANN to understand how its working?
     - In Deep Learning as the data size improves, the performance also improves
 
 ![Untitled](Deep%20Learning%2045bd6d41bf864c4994e16efd07ec56a6/Untitled.png)
