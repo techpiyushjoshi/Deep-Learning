@@ -1,6 +1,7 @@
 # Deep Learning
 
 # DS5B-605
+by Puneet Gupta
 
 ### Credits-3 (L(2)-T(0)-P(2))
 
