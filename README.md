@@ -13,7 +13,7 @@ Lecture Time - Sunday 10AM - 12PM
 This course aims to present the **mathematical, statistical and computational** challenges of building stable representations for **high-dimensional data**, such as **images, text and data**. We will delve into selected topics of Deep Learning, discussing recent models from both supervised and unsupervised learning. Special emphasis will be on c**onvolutional architectures, invariance learning, unsupervised learning and non-convex optimization.**
 
 <aside>
-💡 There will be 2 tests and assignments. Assignment do yourself, good assignment good marks. The more effort you make the better you will score. Ask doubts and stay active
+💡 There will be 2 tests and assignments. Assignment do yourself, good assignment good marks. The more effort you make the better you will score. Ask doubts and stay active here
 
 </aside>
 
