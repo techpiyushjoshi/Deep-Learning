@@ -2,7 +2,7 @@
 
 # Syllabus
 
-**By Puneet Gupta**
+**By Puneet Gupta Sir**
 
 ***Credits 3 (L(2)-T(0)-P(2))***
 
