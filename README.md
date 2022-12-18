@@ -48,7 +48,7 @@ This course aims to present the **mathematical, statistical and computational**
 - Fully Connected Layer
 - Softmax & Cross-Entropy
 - Data Augmentation
-- Create image Dataset using Data Augmentation and Create CNN Model with Keras.
+- Create image Dataset using Data Augmentation and Create CNN Model with Keras
 
 **Unit-III:** 
 
