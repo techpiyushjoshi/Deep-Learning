@@ -1,4 +1,4 @@
-# Piyush Joshi’s Deep Learning DS5B-605
+# Deep Learning DS5B-605
 
 # Syllabus
 
